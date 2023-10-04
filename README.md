@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->👋 Hi, I’m @itsrathore15 from india
-
+🎓 I am a Engineering Student
+🌱 I love programming 
+🌐 I am a Web Developer
 
