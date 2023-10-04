@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->👋 Hi, I’m @itsrathore15 from india
-🎓 I am a Engineering Student
-🌱 I love programming 
-🌐 I am a Web Developer
+-->
+-👋 Hi, I’m @itsrathore15 from india
+-🎓 I am a Engineering Student at NIT Kurukshetra
+-🌱 I love programming 
+-🌐 I am a Web Developer
 
