@@ -1,4 +1,3 @@
-```md
 ## 🧪 Let's cook.
 
 Not the blue stuff.
@@ -12,4 +11,3 @@ The kind that scales to **1M+ events/min**, survives production traffic, and ref
 - 📡 High-Throughput Backend Engineering
 
 > *"I am the one who debugs."*
-```
