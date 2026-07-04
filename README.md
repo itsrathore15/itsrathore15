@@ -2,7 +2,7 @@
 
 Not the blue stuff.
 
-The kind that scales to **1M+ events/min**, survives production traffic, and refuses to wake people up at 3 AM.
+The kind that scales, survives production traffic, and refuses to wake people up at 3 AM.
 
 - ⚗️ Distributed Systems
 - ☁️ AWS • Python • PostgreSQL • Redis
