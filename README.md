@@ -13,4 +13,3 @@ The kind that scales to **1M+ events/min**, survives production traffic, and ref
 
 > *"I am the one who debugs."*
 ```
-
